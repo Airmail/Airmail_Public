@@ -10,6 +10,8 @@ Airmail is an OS X mail client for Mac
 - Try to reproduce your bug using a recent version of the software, 
 
 **Has someone else already reported the issue?**
-- Please quick check if the issue is already been tracked.
+- Please quick check if the issue is already being tracked.
  
 Thank you very much
+
+ 
