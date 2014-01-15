@@ -2,6 +2,8 @@ Airmail Issue Tracker
 ======================
 Airmail is an OS X mail client for Mac
 
+![Logo](http://bloop.s3.amazonaws.com/MBA13_Dev.png "logo")
+
 **Quick recommendations for reports**
 -	Be clear: explain how to reproduce the problem, step by step, so others can reproduce the bug
 -	Include only one problem per report
